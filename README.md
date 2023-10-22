@@ -10,3 +10,7 @@ This seems to be a quality control issue? I see mixed results online abt people 
 and have to change it to 720p.
 This is my first repo so i dont really know what else to add.
 Please feel free to msg me abt any questions on discord my @ is phrog#3781
+Oh yea i almost forgot, the performance is ok, the cpu performance is the same as windows 10 (and sometimes even better) but the gpu performance is abt 10-20 percent worse, this is prob bc all the 
+effects on Mac Os, but im looking for tweaks to increase it to native windows performance.
+You might have a problem getting ur drive to recognize and it prob is bc of dell's bios this was prob the worst part of hackintoshing, you have to modify the bios and it can get messy
+Baio77 has been very helpful, u shud msg him on telagram if u need help, u can find his contact info on github.
